@@ -7,9 +7,7 @@ Operating continuously for over three years, Solar Orbiter's Spectrometer/Telesc
 - poster/: The final poster presented at EGU 2024, along with any related presentation materials.
 
 ## Installation
-Instructions on setting up the environment, installing dependencies, etc.
 
-# Example installation steps
 ```
 git clone https://github.com/yourusername/STIX-clustering.git
 cd STIX-clustering
