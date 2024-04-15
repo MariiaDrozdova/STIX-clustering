@@ -54,4 +54,4 @@ Drozdova, M., Kinakh, V., Ramunno, F., Lastufka, E., and Voloshynovskiy, S.: Vis
 ```
 
 ## Contact
-For any inquiries or collaboration opportunities, please reach out to Mariia Drozdova at mariia.drozdova@unige.ch.
+For any inquiries or collaboration opportunities, please reach out to Mariia Drozdova at `mariia.drozdova at unige.ch` and Slava Voloshynovskiy at `svolos at unige.ch`.
