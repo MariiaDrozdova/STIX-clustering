@@ -14,6 +14,11 @@ git clone https://github.com/yourusername/STIX-clustering.git
 cd STIX-clustering
 pip install -r requirements.txt
 ```
+You can download our data from here:
+
+```
+https://drive.switch.ch/index.php/s/S8hIRBa9wlKtDr8
+```
 
 ## How to Use
 
