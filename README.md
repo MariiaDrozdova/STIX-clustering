@@ -1,4 +1,4 @@
-# Visualizing three years of STIX X-ray flare observations using self-supervised learning - official implementation of the work present at EGU conference in 2024
+# Visualizing three years of STIX X-ray flare observations using self-supervised learning 
 
 ## Overview
 Operating continuously for over three years, Solar Orbiter's Spectrometer/Telescope for Imaging X-rays (STIX) has captured more than 43,000 X-ray flares. This project harnesses self-supervised learning to organize and visualize these flares based on their visual properties. Through the application of networks like Masked Siamese Networks and Autoencoders, we extract latent space embeddings that encapsulate the core characteristics of each flare. This approach facilitates a nuanced exploration of the data, allowing for the grouping of flares by shared morphological features and aiding in the identification of unique or noteworthy events within the extensive dataset.
